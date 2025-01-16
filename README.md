@@ -54,4 +54,4 @@ print("hello")
 내컴퓨터 안에서만 본다면 절대경로 사용해도 상과없음
 
 `상대경로` 
-![image.jpg](.\\dog.jpg)
+![image.jpg](./dog.jpg)
